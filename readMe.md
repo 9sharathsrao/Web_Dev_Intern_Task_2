@@ -2,7 +2,7 @@
 A dynamic To-Do list where users can add, remove, and mark tasks complete.
 
 ## Summary of Work
-1. Used HTML5 tags like <input>, <button> and <ul> for data entry, to trigger the action and an empty ul tag that acts as a placeholder for tasks.
+1. Used HTML5 tags like `<input>` for data entry , `<button>` to trigger the action and empty `<ul>` tag that acts as a placeholder for tasks.
 
 ## Assets & References
 1. Websites:- W3 Schools, Geeks for Geeks
